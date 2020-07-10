@@ -8,7 +8,7 @@
   * [gmail](mailto://matthewknox@gmail.com)
 
 - 🔭 I’m currently working at reddit on AB test infrastructure, i18n, moderation tooling, and a bunch of other things.
-- 🌱 I’m currently learning rust and 
+- 🌱 I’m currently learning rust and permanently learning parenting
 - ⚡ Fun facts:
   * I'm pretty sure I've deployed more scheme runtimes than the rest of the world combined
   * I ran a flow cytometry lab at which I sorted around 1 quadrillion sperm
