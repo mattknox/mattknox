@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning rust and permanently learning parenting
 - ⚡ Fun facts:
   * I'm pretty sure I've deployed more scheme runtimes than the rest of the world combined
-  * I ran a flow cytometry lab at which I sorted around 1 quadrillion sperm
+  * I ran a flow cytometry lab at which I sorted tens of trillions of bovine sperm
 
 <!--
 **mattknox/mattknox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
